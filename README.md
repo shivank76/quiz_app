@@ -1,4 +1,4 @@
-# Dice Rolling App
+# Quiz App
 
 Welcome to quiz_app! This Flutter-built quiz app offers range of trivia questions with an engaging experience for users. Challenge yourself or compete with friends to see who reigns supreme in the world of trivia!
 
